@@ -8,6 +8,6 @@ bot.on("ready", () => {
 
 bot.on("message", message => {
   if (message.content == "henlo") {
-    message.channel.send("henlo"
+    message.channel.send("henlo")
   }
 })
