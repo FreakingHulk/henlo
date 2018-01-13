@@ -1,6 +1,6 @@
 {
-  "name": "henlo"
-  "version": "0.0.0"
+  "name": "henlo",
+  "version": "0.0.0",
   "dependencies": {
     "discord.js": "^11.2.1"
   }
