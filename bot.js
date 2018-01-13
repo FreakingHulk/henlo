@@ -1,6 +1,6 @@
 const discord = require('discord.js')
 const bot = new discord.Client()
-bot.login(process.env.token)
+bot.login(process.env.tok)
 
 bot.on("ready", () => {
    bot.user.setGame("HENLO")
